@@ -1,0 +1,1 @@
+/var/app/current/magento2/app/code/Smartwave/Megamenu/view/frontend/web/js/sw_megamenu.js
